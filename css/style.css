@@ -2780,32 +2780,34 @@ form .btn {
 
 
 
-      main {
-      max-width: 1000px;
-      margin: 2rem auto;
-      padding: 2rem;
-      background-color: #fff;
-      box-shadow: 0 0 10px rgba(0,0,0,0.05);
-      line-height: 1.6;
-    }
-    main h1, h2 {
-      color: #003366;
-    }
-    main h1 {
-      margin-bottom: 1rem;
-    }
-    main h2 {
-      margin-top: 2rem;
-      border-bottom: 1px solid #ccc;
-      padding-bottom: 0.5rem;
-    }
-    main ul {
-      padding-left: 1.5rem;
-    }
-    main a {
-      color: #fb7400;
-      text-decoration: none;
-    }
-    main a:hover {
-      text-decoration: underline;
-    }
+  main {
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    line-height: 1.6;
+  }
+  main h1, h2 {
+    color: #003366;
+  }
+  main h1 {
+    margin-bottom: 1rem;
+  }
+  
+  main h2 {
+    margin-top: 2rem;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.5rem;
+  }
+  main ul {
+    padding-left: 1.5rem;
+  }
+  main a {
+    color: #fb7400;
+    text-decoration: none;
+  }
+  
+  main a:hover {
+    text-decoration: underline;
+  }
